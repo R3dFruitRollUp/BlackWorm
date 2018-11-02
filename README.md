@@ -76,5 +76,7 @@ and alot more.
 MIT License
 
 Owned By : Dark Software Company and Black Ninja Team
+
 Developer Twitter : http://www.twitter.com/BlackHacker_511
+
 Company Twitter : http://www.twitter.com/DarkSoftwareCo
