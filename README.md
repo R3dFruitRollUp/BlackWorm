@@ -14,7 +14,13 @@ Thanks to      : in The About Page.
 # About The Developer
 Black.Hacker aka BlackMafia aka BlackPsycho
 
-Coder of BlackWorm and Black Stealer and BlackRAT
+Developer of Black Software Tools
+1. Black Worm
+2. Black Worm Generator
+3. Black Downloader Generator
+4. Black Cryptor
+5. Black Miner
+6. BlackRAT
 
 7 Udemy Cources Certifications
 
