@@ -61,7 +61,7 @@ and alot more.
 
 ![About Page](https://dev-point.co/uploads1/5c1af97679245.png)
 
-# Video Tutorial
+# Video Tutorial in English
 [![Watch the video](https://dev-point.co/uploads1/bc25a0083acd1.png)](https://youtu.be/spt83XFiKiM)
 
 # Copyright
