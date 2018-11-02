@@ -2,13 +2,13 @@
 
 BlackWorm - .NET Based Worm Controller
 
-Coded By   : Black.Hacker
+Developed By   : Black.Hacker
 
-Version    : 5.5 Hell Mary
+Version        : 5.5 Hell Mary
 
-Company    : Dark Software Company - Black Ninja Team
+Company        : Dark Software Company - Black Ninja Team
 
-Thanks to  : in The About Page.
+Thanks to      : in The About Page.
 
 
 # About The Developer
