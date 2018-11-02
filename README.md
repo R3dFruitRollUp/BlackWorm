@@ -1,4 +1,4 @@
-![Image of the interface](https://dev-point.co/uploads1/34e68d6c59271.png)
+![Logo](https://dev-point.co/uploads1/76878f14eaca1.png)
 
 BlackWorm - .NET Based Worm Controller
 
