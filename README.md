@@ -33,8 +33,7 @@ Leader of Black Ninja Team
 I know more then 7 Programing languages
 
 
-# About BlackRAT
-Thsi the fifth version of the infamous Black Worm.
+# About Black Wom
 
 a .NET Basesd Worm Controller with a bunch of opretions to execute on the Target Device
 
