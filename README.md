@@ -69,6 +69,9 @@ and alot more.
 # Video Tutorial in English
 [![Watch the video](https://dev-point.co/uploads1/bc25a0083acd1.png)](https://youtu.be/spt83XFiKiM)
 
+# Video Tutorial in Arabic
+[![Watch the video](https://dev-point.co/uploads1/bc25a0083acd1.png)](https://youtu.be/MQZo303ZVCE)
+
 # Copyright
 MIT License
 
